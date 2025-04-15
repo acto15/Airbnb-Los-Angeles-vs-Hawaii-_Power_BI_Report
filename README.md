@@ -1,7 +1,9 @@
 
-# Airbnb Market Analysis: Hawaii vs Los Angeles
+# Airbnb Overview: Hawaii vs Los Angeles
 
 Download the full Power BI report [airbnb_report.pbix file](https://drive.google.com/file/d/1hqkFQIatYkv1q6fz8GqypRH3yOtYjVCq/view?usp=sharing) Click Download and View in Power BI Desktop
+
+*Note*: You can view the interactive dashboard only if you have installed Power BI Desktop on your PC, else feel free to go through the static report in PDF.
 
 
 ## Project Overview
