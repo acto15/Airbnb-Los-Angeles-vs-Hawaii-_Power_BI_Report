@@ -22,7 +22,7 @@ The project was developed in **Power BI** using **Power Query** for robust data 
 Advanced **DAX** functions were used to compute average prices, dynamic review scores, and conditional formatting. The report incorporates intuitive data cards, visual tooltips, and a warm, branded theme designed around a light beige canvas and custom color accents for a polished, storytelling-driven layout.
 
 
-## Key Comparative Insights
+## Key Findings
 
 - **Pricing**: Average Airbnb prices in **Hawaii** are noticeably higher than in **Los Angeles**.
 - **Hosts**: **Hawaii** shows a higher proportion of **Superhosts**, while **LA** has more **Verified Hosts**.
