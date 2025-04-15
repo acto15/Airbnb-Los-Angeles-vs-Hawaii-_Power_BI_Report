@@ -7,7 +7,7 @@ I have explained my project here [Project Explanation Video](https://drive.googl
 
 
 
-<span style="text-decoration: underline;">*Note*</span>: You can view the interactive dashboard only if you have installed Power BI Desktop on your PC, else feel free to go through the static report in PDF.
+*Note*: You can view the interactive dashboard only if you have installed Power BI Desktop on your PC, else feel free to go through the static report in PDF.
 
 
 ## Project Overview
