@@ -48,3 +48,10 @@ This dashboard equips hosts, analysts, and Airbnb stakeholders to make smarter d
 ## Conclusion
 
 This Airbnb Market Analysis brings clarity to competitive rental dynamics between Hawaii and Los Angeles. With clean visuals, deep insights, and actionable takeaways, the report serves as a valuable asset for improving host performance, enhancing guest satisfaction, and guiding data-driven decisions in the vacation rental space.
+
+---
+## Author - Sam Arnon
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/samarnon-dataanalyst/)
+
+Thank you, and I look forward to connecting with you!
+
