@@ -3,7 +3,7 @@
 
 Download the full Power BI report [airbnb_report.pbix file](https://drive.google.com/file/d/1hqkFQIatYkv1q6fz8GqypRH3yOtYjVCq/view?usp=sharing) Click Download and View in Power BI Desktop
 
-I have explained my project here [Project Explanation Video](https://drive.google.com/file/d/1dhc4lnn3KdJatIZbCQtff5Smgha0rBkN/view?usp=sharing)
+I have explained my project here [Video_Presentation](https://drive.google.com/file/d/1dhc4lnn3KdJatIZbCQtff5Smgha0rBkN/view?usp=sharing)
 
 
 
